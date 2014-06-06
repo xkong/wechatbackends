@@ -3,4 +3,4 @@ WechatBackends
 
 Backend for wechat.
 
-See base.py for detail.
+See wechat/base.py for detail.
