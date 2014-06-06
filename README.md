@@ -1,4 +1,6 @@
-wechatbackends
+WechatBackends
 ==============
 
-wechat backends
+Backend for wechat.
+
+See base.py for detail.
